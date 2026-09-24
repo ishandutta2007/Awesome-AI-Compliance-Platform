@@ -67,9 +67,9 @@ The Global AI Governance & Compliance Software market is estimated at **$550M+ i
 
 Below is the list of leading open-source repositories powering AI documentation, model cards, LLM guardrails, data drift detection, and compliance tooling.
 
-> **Note**: Repositories are sorted by **GitHub Star Count (Descending)**.
+> **Note**: Repositories are sorted by **GitHub Stars_Count (Descending)**.
 
-| Repository & Stargazers Link | Description & Compliance Utility | GitHub Star Badge |
+| Repository & Stargazers Link | Description & Compliance Utility | GitHub Stars_Badge |
 | :--- | :--- | :--- |
 | **[open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)** | Unified metadata platform featuring automated AI model asset discovery, data lineage, and compliance audit tracking. | [![Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers) |
 | **[arize-ai/phoenix](https://github.com/arize-ai/phoenix)** | Open-source AI observability platform for tracing, evaluations, prompt engineering, and LLM guardrail compliance evidence. | [![Stars](https://img.shields.io/github/stars/arize-ai/phoenix?style=social&color=white)](https://github.com/arize-ai/phoenix/stargazers) |
